@@ -6,7 +6,7 @@ const painting = paintings[0];
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Painting
         url={painting.url}
         title={painting.title}
